@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/cavs.png",
+        "name": ""
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/bullslogo.png",
+        "name": ""
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/celtics-logo.png",
+        "name": ""
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/golden state logo.png",
+        "name": "Lady Chihuahua"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/hawks logo.jpg",
+        "name": ""
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/memphis logo.png",
+        "name": ""
+    }
+]
